@@ -1,0 +1,201 @@
+Merchant Id,Annual Revenue (k$),Spending Score (1-100),City,Most Purchased Product
+1,15,39,Mtwara,Mtindi 500ml
+2,15,81,Zanzibar City,Fresh Milk 250ml
+3,16,6,Mtwara,Mtindi 500ml
+4,16,77,Zanzibar City,Fresh Milk 250ml
+5,17,40,Mtwara,Mtindi 500ml
+6,17,76,Zanzibar City,Fresh Milk 250ml
+7,18,6,Mtwara,Mtindi 500ml
+8,18,94,Zanzibar City,Fresh Milk 250ml
+9,19,3,Mtwara,Mtindi 500ml
+10,19,72,Zanzibar City,Fresh Milk 250ml
+11,19,14,Mtwara,Mtindi 500ml
+12,19,99,Zanzibar City,Fresh Milk 250ml
+13,20,15,Mtwara,Mtindi 500ml
+14,20,77,Zanzibar City,Fresh Milk 250ml
+15,20,13,Mtwara,Mtindi 500ml
+16,20,79,Zanzibar City,Fresh Milk 250ml
+17,21,35,Mtwara,Mtindi 500ml
+18,21,66,Zanzibar City,Fresh Milk 250ml
+19,23,29,Mtwara,Mtindi 500ml
+20,23,98,Zanzibar City,Fresh Milk 250ml
+21,24,35,Mtwara,Mtindi 500ml
+22,24,73,Zanzibar City,Fresh Milk 250ml
+23,25,5,Mtwara,Mtindi 500ml
+24,25,73,Zanzibar City,Fresh Milk 250ml
+25,28,14,Mtwara,Mtindi 500ml
+26,28,82,Zanzibar City,Fresh Milk 250ml
+27,28,32,Mtwara,Mtindi 500ml
+28,28,61,Zanzibar City,Fresh Milk 250ml
+29,29,31,Mtwara,Mtindi 500ml
+30,29,87,Zanzibar City,Fresh Milk 250ml
+31,30,4,Mtwara,Mtindi 500ml
+32,30,73,Zanzibar City,Fresh Milk 250ml
+33,33,4,Mtwara,Mtindi 500ml
+34,33,92,Zanzibar City,Fresh Milk 250ml
+35,33,14,Mtwara,Mtindi 500ml
+36,33,81,Zanzibar City,Fresh Milk 250ml
+37,34,17,Mtwara,Mtindi 500ml
+38,34,73,Zanzibar City,Fresh Milk 250ml
+39,37,26,Mtwara,Mtindi 500ml
+40,37,75,Zanzibar City,Fresh Milk 250ml
+41,38,35,Mtwara,Mtindi 500ml
+42,38,92,Zanzibar City,Fresh Milk 250ml
+43,39,36,Moshi,Fresh Milk 1ltr
+44,39,61,Moshi,Fresh Milk 1ltr
+45,39,28,Moshi,Fresh Milk 1ltr
+46,39,65,Moshi,Fresh Milk 1ltr
+47,40,55,Moshi,Fresh Milk 1ltr
+48,40,47,Moshi,Fresh Milk 1ltr
+49,40,42,Moshi,Fresh Milk 1ltr
+50,40,42,Moshi,Fresh Milk 1ltr
+51,42,52,Moshi,Fresh Milk 1ltr
+52,42,60,Moshi,Fresh Milk 1ltr
+53,43,54,Moshi,Fresh Milk 1ltr
+54,43,60,Moshi,Fresh Milk 1ltr
+55,43,45,Moshi,Fresh Milk 1ltr
+56,43,41,Moshi,Fresh Milk 1ltr
+57,44,50,Moshi,Fresh Milk 1ltr
+58,44,46,Moshi,Fresh Milk 1ltr
+59,46,51,Moshi,Fresh Milk 1ltr
+60,46,46,Moshi,Fresh Milk 1ltr
+61,46,56,Moshi,Fresh Milk 1ltr
+62,46,55,Moshi,Fresh Milk 1ltr
+63,47,52,Moshi,Fresh Milk 1ltr
+64,47,59,Moshi,Fresh Milk 1ltr
+65,48,51,Moshi,Fresh Milk 1ltr
+66,48,59,Moshi,Fresh Milk 1ltr
+67,48,50,Moshi,Fresh Milk 1ltr
+68,48,48,Moshi,Fresh Milk 1ltr
+69,48,59,Moshi,Fresh Milk 1ltr
+70,48,47,Moshi,Fresh Milk 1ltr
+71,49,55,Moshi,Fresh Milk 1ltr
+72,49,42,Moshi,Fresh Milk 1ltr
+73,50,49,Moshi,Fresh Milk 1ltr
+74,50,56,Moshi,Fresh Milk 1ltr
+75,54,47,Moshi,Fresh Milk 1ltr
+76,54,54,Moshi,Fresh Milk 1ltr
+77,54,53,Moshi,Fresh Milk 1ltr
+78,54,48,Moshi,Fresh Milk 1ltr
+79,54,52,Moshi,Fresh Milk 1ltr
+80,54,42,Moshi,Fresh Milk 1ltr
+81,54,51,Moshi,Fresh Milk 1ltr
+82,54,55,Moshi,Fresh Milk 1ltr
+83,54,41,Moshi,Fresh Milk 1ltr
+84,54,44,Moshi,Fresh Milk 1ltr
+85,54,57,Moshi,Fresh Milk 1ltr
+86,54,46,Moshi,Fresh Milk 1ltr
+87,57,58,Moshi,Fresh Milk 1ltr
+88,57,55,Moshi,Fresh Milk 1ltr
+89,58,60,Moshi,Fresh Milk 1ltr
+90,58,46,Moshi,Fresh Milk 1ltr
+91,59,55,Moshi,Fresh Milk 1ltr
+92,59,41,Moshi,Fresh Milk 1ltr
+93,60,49,Moshi,Fresh Milk 1ltr
+94,60,40,Moshi,Fresh Milk 1ltr
+95,60,42,Moshi,Fresh Milk 1ltr
+96,60,52,Moshi,Fresh Milk 1ltr
+97,60,47,Moshi,Fresh Milk 1ltr
+98,60,50,Moshi,Fresh Milk 1ltr
+99,61,42,Moshi,Fresh Milk 1ltr
+100,61,49,Moshi,Fresh Milk 1ltr
+101,62,41,Moshi,Fresh Milk 1ltr
+102,62,48,Moshi,Fresh Milk 1ltr
+103,62,59,Moshi,Fresh Milk 1ltr
+104,62,55,Moshi,Fresh Milk 1ltr
+105,62,56,Moshi,Fresh Milk 1ltr
+106,62,42,Moshi,Fresh Milk 1ltr
+107,63,50,Moshi,Fresh Milk 1ltr
+108,63,46,Moshi,Fresh Milk 1ltr
+109,63,43,Moshi,Fresh Milk 1ltr
+110,63,48,Moshi,Fresh Milk 1ltr
+111,63,52,Moshi,Fresh Milk 1ltr
+112,63,54,Moshi,Fresh Milk 1ltr
+113,64,42,Moshi,Fresh Milk 1ltr
+114,64,46,Moshi,Fresh Milk 1ltr
+115,65,48,Moshi,Fresh Milk 1ltr
+116,65,50,Moshi,Fresh Milk 1ltr
+117,65,43,Moshi,Fresh Milk 1ltr
+118,65,59,Moshi,Fresh Milk 1ltr
+119,67,43,Dar es Salaam,Mtindi 250ml
+120,67,57,Dar es Salaam,Mtindi 250ml
+121,67,56,Dar es Salaam,Mtindi 250ml
+122,67,40,Dar es Salaam,Mtindi 250ml
+123,69,58,Dar es Salaam,Mtindi 250ml
+124,69,91,Dar es Salaam,Mtindi 250ml
+125,70,29,Dar es Salaam,Mtindi 250ml
+126,70,77,Dar es Salaam,Mtindi 250ml
+127,71,35,Dar es Salaam,Mtindi 250ml
+128,71,95,Dar es Salaam,Mtindi 250ml
+129,71,11,Dar es Salaam,Mtindi 250ml
+130,71,75,Dar es Salaam,Mtindi 250ml
+131,71,9,Dar es Salaam,Mtindi 250ml
+132,71,75,Dar es Salaam,Mtindi 250ml
+133,72,34,Dar es Salaam,Mtindi 250ml
+134,72,71,Dar es Salaam,Mtindi 250ml
+135,73,5,Dar es Salaam,Mtindi 250ml
+136,73,88,Dar es Salaam,Mtindi 250ml
+137,73,7,Dar es Salaam,Mtindi 250ml
+138,73,73,Dar es Salaam,Mtindi 250ml
+139,74,10,Dar es Salaam,Mtindi 250ml
+140,74,72,Dar es Salaam,Mtindi 250ml
+141,75,5,Dar es Salaam,Mtindi 250ml
+142,75,93,Dar es Salaam,Mtindi 250ml
+143,76,40,Dar es Salaam,Mtindi 250ml
+144,76,87,Dar es Salaam,Mtindi 250ml
+145,77,12,Dar es Salaam,Mtindi 250ml
+146,77,97,Dar es Salaam,Mtindi 250ml
+147,77,36,Dar es Salaam,Mtindi 250ml
+148,77,74,Dar es Salaam,Mtindi 250ml
+149,78,22,Dar es Salaam,Mtindi 250ml
+150,78,90,Dar es Salaam,Mtindi 250ml
+151,78,17,Dar es Salaam,Mtindi 250ml
+152,78,88,Dar es Salaam,Mtindi 250ml
+153,78,20,Dar es Salaam,Mtindi 250ml
+154,78,76,Dar es Salaam,Mtindi 250ml
+155,78,16,Dar es Salaam,Mtindi 250ml
+156,78,89,Dar es Salaam,Mtindi 250ml
+157,78,1,Dar es Salaam,Mtindi 250ml
+158,78,78,Dar es Salaam,Mtindi 250ml
+159,78,1,Dar es Salaam,Mtindi 250ml
+160,78,73,Dar es Salaam,Mtindi 250ml
+161,79,35,Dar es Salaam,Mtindi 250ml
+162,79,83,Dar es Salaam,Mtindi 250ml
+163,81,5,Dar es Salaam,Mtindi 250ml
+164,81,93,Dar es Salaam,Mtindi 250ml
+165,85,26,Dar es Salaam,Mtindi 250ml
+166,85,75,Dar es Salaam,Mtindi 250ml
+167,86,20,Dar es Salaam,Mtindi 250ml
+168,86,95,Dar es Salaam,Mtindi 250ml
+169,87,27,Dar es Salaam,Mtindi 250ml
+170,87,63,Dar es Salaam,Mtindi 250ml
+171,87,13,Dar es Salaam,Mtindi 250ml
+172,87,75,Dar es Salaam,Mtindi 250ml
+173,87,10,Dar es Salaam,Mtindi 250ml
+174,87,92,Dar es Salaam,Mtindi 250ml
+175,88,13,Dar es Salaam,Mtindi 250ml
+176,88,86,Dar es Salaam,Mtindi 250ml
+177,88,15,Dar es Salaam,Mtindi 250ml
+178,88,69,Dar es Salaam,Mtindi 250ml
+179,93,14,Dar es Salaam,Mtindi 250ml
+180,93,90,Dar es Salaam,Mtindi 250ml
+181,97,32,Dar es Salaam,Mtindi 250ml
+182,97,86,Dar es Salaam,Mtindi 250ml
+183,98,15,Dar es Salaam,Mtindi 250ml
+184,98,88,Dar es Salaam,Mtindi 250ml
+185,99,39,Dar es Salaam,Mtindi 250ml
+186,99,97,Dar es Salaam,Mtindi 250ml
+187,101,24,Dar es Salaam,Mtindi 250ml
+188,101,68,Dar es Salaam,Mtindi 250ml
+189,103,17,Dar es Salaam,Mtindi 250ml
+190,103,85,Dar es Salaam,Mtindi 250ml
+191,103,23,Dar es Salaam,Mtindi 250ml
+192,103,69,Dar es Salaam,Mtindi 250ml
+193,113,8,Dar es Salaam,Mtindi 250ml
+194,113,91,Dar es Salaam,Mtindi 250ml
+195,120,16,Dar es Salaam,Mtindi 250ml
+196,120,79,Dar es Salaam,Mtindi 250ml
+197,126,28,Dar es Salaam,Mtindi 250ml
+198,126,74,Dar es Salaam,Mtindi 250ml
+199,137,18,Dar es Salaam,Mtindi 250ml
+200,137,83,Dar es Salaam,Mtindi 250ml
